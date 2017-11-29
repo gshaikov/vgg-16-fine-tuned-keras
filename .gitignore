@@ -1,0 +1,8 @@
+.spyproject/
+.vscode/
+
+dataset/
+preprocessed/
+
+final_weights_72_0.22.h5
+top_weights.h5
