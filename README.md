@@ -31,6 +31,7 @@ For this task, I used a VGG-16 CNN architecture. The model was imlemented in Ker
 
 After the fine-tuning, the model has been trained for 72 epochs on a GPU. The result is **92.57% accuracy on a test set**.
 
+Kaggle score:
 <div>
 <img src="results/kaggle_score.png">
 </div>
