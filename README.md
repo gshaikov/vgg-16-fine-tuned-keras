@@ -1,3 +1,5 @@
+_Disclaimer: this project was completed long time ago during my time in academia._
+
 # Fine-Tuned VGG-16 on seedlings dataset
 
 For this project, I picked a nontrivial dataset of small and large square pictures of seedlings ("baby"-plants). The goal is to recognize if the seedling on a photo belongs to one of 12 different species. The dataset is part of a new competition (Nov 2017) on Kaggle ([link](https://www.kaggle.com/c/plant-seedlings-classification))
