@@ -1,4 +1,4 @@
-_Disclaimer: this project was completed long time ago during my time in academia._
+_Disclaimer: this project was completed long time ago **during my time in academia**._
 
 # Fine-Tuned VGG-16 on seedlings dataset
 
