@@ -1,4 +1,4 @@
-_Note: this was a self-study project I worked on after completing a Masters degree at ETH Zurich in 2017._
+_Note: this was a self-study project I worked on at the end of my Masters degree at ETH Zurich in 2017._
 
 # Fine-Tuned VGG-16 on seedlings dataset
 
