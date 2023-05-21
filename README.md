@@ -1,4 +1,4 @@
-_Disclaimer: this project was completed long time ago during my time in ETH Zurich._
+_Note: this was a self-study project I worked on while doing a Masters degree at ETH Zurich._
 
 # Fine-Tuned VGG-16 on seedlings dataset
 
