@@ -49,4 +49,4 @@ Kaggle score:
 4. Join reduced VGG-16 and Fully Connected Network and fine tune last 3 convolutional layers together with fully-connected layers using original images.
 
 ## Potential improvements
-Looking at accuracy, it is obvious that the mode has high **bias**. This is due to high similarity between the images and disproportionate rescaling. Since all images are of the different size (from 70x70 to 1000x1000), it is not sensible to rescale them all to 224x224 size and train one network on them. Therefore, in the next steps in the project, the data could be grouped by the image size and several neural networks could be trained in parallel on each group. This is expected to decrease the dev error further.
+The model appears to have high bias. Potentially, one can finetune more layers or use a higher capacity network as a frozen backbone.
